@@ -17,6 +17,8 @@
 
 ![demo](demo.gif)
 
+yep, it lags much:)
+
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3.9+-ff4fa3?style=for-the-badge&logo=python&logoColor=white)
