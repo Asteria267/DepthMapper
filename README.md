@@ -86,8 +86,6 @@ The abstraction is intentional. In v2.0, you replace `backend.estimate(frame)` w
 > Move your hand closer and further from the camera and watch the heatmap shift in real time.
 > The histogram updates live — you can see the depth distribution change as the scene changes.
 
-![demo](demo.gif)
-
 ---
 
 ## ✦ Installation
