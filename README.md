@@ -13,9 +13,7 @@
 
 ### *Monocular Depth Estimation — Day 18 · BUILDCORED ORCAS*
 
-<br/>
 
-![demo](demo.gif)
 
 <br/>
 
